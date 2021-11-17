@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\Palindromo\obj\Debug\netcoreapp3.1\Palindromo.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Palindromo\obj\Debug\netcoreapp3.1\Palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Palindromo\obj\Debug\netcoreapp3.1\Palindromo.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Palindromo\obj\Debug\netcoreapp3.1\Palindromo.AssemblyInfo.cs
+C:\Users\andre\source\repos\Palindromo\obj\Debug\netcoreapp3.1\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Palindromo\bin\Debug\netcoreapp3.1\Palindromo.exe
+C:\Users\andre\source\repos\Palindromo\bin\Debug\netcoreapp3.1\Palindromo.deps.json
+C:\Users\andre\source\repos\Palindromo\bin\Debug\netcoreapp3.1\Palindromo.runtimeconfig.json
+C:\Users\andre\source\repos\Palindromo\bin\Debug\netcoreapp3.1\Palindromo.runtimeconfig.dev.json
+C:\Users\andre\source\repos\Palindromo\bin\Debug\netcoreapp3.1\Palindromo.dll
+C:\Users\andre\source\repos\Palindromo\bin\Debug\netcoreapp3.1\Palindromo.pdb
+C:\Users\andre\source\repos\Palindromo\obj\Debug\netcoreapp3.1\Palindromo.dll
+C:\Users\andre\source\repos\Palindromo\obj\Debug\netcoreapp3.1\Palindromo.pdb
+C:\Users\andre\source\repos\Palindromo\obj\Debug\netcoreapp3.1\Palindromo.genruntimeconfig.cache
